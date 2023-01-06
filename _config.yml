@@ -1,5 +1,5 @@
 title: Pump-Six
-tagline: A personal blog
+tagline: an old machine
 author:
   name: dntkm
   url: https://github.com/dntkm
@@ -10,7 +10,5 @@ plugins:
   - jekyll-seo-tag
 
 # Build Settings
-
-paginate: 2
 
 tags_path: /tags/
