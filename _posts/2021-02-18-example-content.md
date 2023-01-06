@@ -2,7 +2,6 @@
 layout: post
 title: Example Content
 author: Mark Otto, Song-Zi Vong
-categories: [Example]
 tags: [jekyll, html, css]
 ---
 

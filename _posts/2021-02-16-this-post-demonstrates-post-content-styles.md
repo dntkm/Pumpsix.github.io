@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "This Post Demonstrates Post Content Styles"
-categories: Junk
 author:
 - Bart Simpson
 - Nelson Mandela Muntz

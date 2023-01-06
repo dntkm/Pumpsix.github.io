@@ -2,7 +2,6 @@
 layout: post
 title: What's Jekyll?
 author: jekyllrb.com
-categories: [Example]
 tags: [jekyll]
 ---
 

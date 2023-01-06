@@ -1,8 +1,8 @@
-title: Monophase
-tagline: A one-column minimal responsive Jekyll blog theme
+title: Pump-Six
+tagline: A personal blog
 author:
-  name: Song-Zi Vong
-  url: https://twitter.com/zivtwt
+  name: dntkm
+  url: https://github.com/dntkm
 
 plugins:
   - jekyll-feed
@@ -14,4 +14,3 @@ plugins:
 paginate: 2
 
 tags_path: /tags/
-categories_path: /categories/
