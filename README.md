@@ -1,5 +1,9 @@
 # Monophase <!-- omit in toc -->
 
+<a href="https://jekyll-themes.com">
+  <img src="https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg" height="20" alt="Jekyll Themes Shield" >
+</a>
+
 Monophase is *a one-column minimal responsive Jekyll blog theme*.
 
 One of the purposes of Monophase is to be an alternative option to the default theme of Jekyll—[Minima](https://github.com/jekyll/minima). Monophase is still keeping minimal, but meanwhile, more beautiful and mellow, and doesn't lose some useful basic features, such as archive.
@@ -28,16 +32,15 @@ Check the *[live demo](https://zivlog.io/monophase/)*.
 
 - [Installation](#installation)
 - [Usage](#usage)
-  - [Global Configuration](#global-configuration)
-  - [Post Configuration](#post-configuration)
-  - [Homepage](#homepage)
-  - [Custom Head](#custom-head)
-  - [Navigation](#navigation)
-  - [Social Links](#social-links)
-  - [Alert Messages](#alert-messages)
-  - [Alignment](#alignment)
-  - [Google Analytics 4](#google-analytics-4)
-  - [Archive](#archive)
+	- [Global Configuration](#global-configuration)
+	- [Post Configuration](#post-configuration)
+	- [Homepage](#homepage)
+	- [Custom Head](#custom-head)
+	- [Navigation](#navigation)
+	- [Social Links](#social-links)
+	- [Alert Messages](#alert-messages)
+	- [Google Analytics 4](#google-analytics-4)
+	- [Archive](#archive)
 - [Contributing](#contributing)
 - [Development](#development)
 - [License](#license)
@@ -151,10 +154,6 @@ Monophase allows you to show social links on the website. All you need to do is 
 ### Alert Messages
 
 Monophase provides some predefined classes to specify different levels of **alert messages**. In order of tone from light to heavy, they are: `message-info`, `message-warning`, and `message-danger`. You may add it to single elements like a `<p>`, or to a parent if there are multiple elements to show.
-
-### Alignment
-
-Monophase also provides some predefined classes to specify the alignment of HTML elements—e.g. images. They are `align-center`, `align-left`, and `align-right`.
 
 ### Google Analytics 4
 
