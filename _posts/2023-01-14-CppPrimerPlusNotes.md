@@ -2,7 +2,7 @@
 layout: post
 title: "C++ Primer Plus 6th Notes"
 author: dntkm
-tags: [C++,Notes]
+tags: [Cpp,Notes]
 math: true
 ---
 

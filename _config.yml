@@ -3,7 +3,7 @@ tagline: an old machine
 author:
   name: dntkm
   url: https://github.com/dntkm
-
+timezone: Asia/Shanghai
 plugins:
   - jekyll-feed
   - jekyll-paginate
