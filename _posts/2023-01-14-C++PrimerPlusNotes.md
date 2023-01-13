@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Primer Plus 6th 读书笔记"
+title: "C++ Primer Plus 6th Notes"
 author: dntkm
 tags: [C++,Notes]
 math: true
